@@ -6,6 +6,7 @@ class SideBar extends React.Component {
         <div id="lessons">Lessons</div>
         <div id="music-theory">Music Theory</div>
         <div id="songs">Songs</div>
+        <div id="events">Events </div>
         <div id="contact-us">Contact Us </div>
       </div>
     );
