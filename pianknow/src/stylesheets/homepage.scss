@@ -1,0 +1,15 @@
+.home-page {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: flex-end;
+  flex: 1;
+}
+
+.home-main {
+  background-color: pink;
+  width: 100%;
+}
+
+.side-bar {
+  background-color: red;
+}
