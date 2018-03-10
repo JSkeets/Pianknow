@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import logo from "./logo.svg";
-import "./App.css";
+import "./stylesheets/App.css";
 import NavBar from "./components/navbar";
 import SideBar from "./components/sidebar";
 
